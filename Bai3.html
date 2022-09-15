@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let arr = [2,3,5,6,8,2,410,15,9,10]
+    let max = arr[0]
+    let index = 0 ;
+    for (let i = 0 ; i < arr.length; i ++){
+        if (arr[i]>max){
+            max = arr[i]
+        }
+        index+= arr[i]
+    }
+    console.log("giá trị trung bình là : " +index/arr.length)
+    console.log("Giá trị lớn nhất là :" + max)
+</script>
+</body>
+</html>

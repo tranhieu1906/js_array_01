@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/js_array_01.iml" filepath="$PROJECT_DIR$/.idea/js_array_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../js_array_value/.idea/js_array_value.iml" filepath="$PROJECT_DIR$/../js_array_value/.idea/js_array_value.iml" />
+    </modules>
+  </component>
+</project>
